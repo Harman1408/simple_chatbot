@@ -35,11 +35,11 @@ RuleBasedChatbot/
 
 ## ▶️ Usage  
 
-### Run the program:  
+### Run the program and Example Interaction:  
 ```bash
 python chatbot.py
 
-**Example Interaction:**
+Example Interaction:
 
 Chatbot: Hello! I am your assistant. Type 'bye' to end the chat.
 
@@ -54,3 +54,4 @@ Chatbot: It's always sunny inside my program ☀️
 
 You: bye  
 Chatbot: Goodbye! Have a great day 😊
+
