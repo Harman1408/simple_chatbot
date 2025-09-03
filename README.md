@@ -1,6 +1,6 @@
 # 🗨️ Rule-Based Chatbot  
 
-A simple **rule-based chatbot** built in **Python** using only basic concepts like functions, loops, and conditions (no external libraries).  
+A simple **rule-based chatbot** built in **Python** using only basic concepts like functions, loops, and conditions.  
 
 This project demonstrates how chatbots can respond to user queries using **predefined rules and keyword matching**.  
 
